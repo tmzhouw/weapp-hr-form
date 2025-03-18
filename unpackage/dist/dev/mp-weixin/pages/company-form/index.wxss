@@ -135,10 +135,8 @@ page {
   color: #333;
 }
 .position-needs {
-  margin-top: 30rpx;
+  margin-top: 10rpx;
   margin-bottom: 30rpx;
-  padding-top: 20rpx;
-  border-top: 1px solid #eaedf2;
 }
 .position-title {
   display: block;
@@ -146,11 +144,6 @@ page {
   color: #666;
   margin-bottom: 20rpx;
   font-weight: 500;
-}
-.switch-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 .form-actions {
   display: flex;

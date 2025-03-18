@@ -5,9 +5,8 @@
   ],
   "subPackages": [],
   "window": {
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "企业用工信息收集",
-    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#2C5697",
     "backgroundColor": "#F8F8F8"
   },
   "usingComponents": {}

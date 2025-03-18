@@ -1,23 +1,21 @@
 {
-	"pages": [ 
-		{
-			"path": "pages/index/index",
-			"style": {
-				"navigationBarTitleText": "企业用工信息收集"
-			}
-		},
-		{
-			"path": "pages/company-form/index",
-			"style": {
-				"navigationBarTitleText": "企业用工信息收集表单"
-			}
+	"pages": [
+	  {
+		"path": "pages/index/index",
+		"style": {
+		  "navigationBarTitleText": "企业用工信息收集"
 		}
+	  },
+	  {
+		"path": "pages/company-form/index",
+		"style": {
+		  "navigationBarTitleText": "企业用工信息收集表单"
+		}
+	  }
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "企业用工信息收集",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
-	},
-	"uniIdRouter": {}
-}
+	  "navigationBarTextStyle": "white",
+	  "navigationBarBackgroundColor": "#2C5697",
+	  "backgroundColor": "#F8F8F8"
+	}
+  }
